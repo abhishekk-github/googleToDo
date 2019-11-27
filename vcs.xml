@@ -130,6 +130,10 @@
           <option name="url" value="https://gitlab.com/travelling_developer/android_challenge_deepak_duvedi.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/dip.spotify95/android_challenge_dipanjan_jana.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/ixigo_interview" />
