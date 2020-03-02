@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '.../ixigo-flights-lib/src/main/java/com/ixigo/lib/flights/common/util/FlightEventsTracker.java [ixigo-flights-lib]'" />
+    <option name="defaultScopeName" value="File '.../ixigo-flights-lib/src/main/java/com/ixigo/lib/flights/common/util/FlightEventsTracker.java [ixigo-flights-lib]'" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '.../ixigo-flights-lib/src/main/java/com/ixigo/lib/flights/common/util/FlightEventsTracker.java [ixigo-flights-lib]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
