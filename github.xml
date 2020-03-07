@@ -3,6 +3,9 @@
     <account id="8660115f-5e19-42ca-bc9f-78d0d97b033d" name="abhi210607@gmail.com">
       <server host="github.com" />
     </account>
+    <account id="d717ce77-91ae-40bf-9d8e-46a7f9998af2" name="abhi210607@gmail.com">
+      <server useHttp="false" host="github.com" />
+    </account>
   </component>
   <component name="GithubSettings">
     <option name="LOGIN" value="abhi210607@gmail.com" />
