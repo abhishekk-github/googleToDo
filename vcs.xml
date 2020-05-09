@@ -190,6 +190,14 @@
           <option name="url" value="https://github.com/londonappbrewery/Flutter-Course-Resources.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/londonappbrewery/mi_card_flutter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/2d-inc/HistoryOfEverything.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Users/Shared/Relocated Items/Security/Abhishek/Flutter" />
