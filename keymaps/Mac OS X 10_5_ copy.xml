@@ -28,10 +28,6 @@
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="shift meta u" />
   </action>
-  <action id="HideActiveWindow">
-    <keyboard-shortcut first-keystroke="shift escape" />
-    <keyboard-shortcut first-keystroke="meta h" />
-  </action>
   <action id="ReplaceInPath" />
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl r" />
